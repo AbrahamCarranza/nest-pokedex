@@ -4,7 +4,7 @@
 
 # Ejecutar en Desaarrollo
 
-1. Ejecutar el repo
+1. Descargar el repo
 2. Ejecutar
 ```
 npm i (npm install)
